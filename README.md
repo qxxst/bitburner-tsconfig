@@ -1,1 +1,2 @@
-# bitburner-tsconfig
+# Bitburner tsconfig
+TypeScript settings for making/compiling Bitburner scripts.
